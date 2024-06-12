@@ -9,9 +9,9 @@ Gophish currently only comes in one flavor, gophish Community Edition (CE), whic
 ## Contributor license agreement
 
 By submitting code as an individual you agree to the
-[individual contributor license agreement](doc/individual_contributor_license_agreement.md).
+[individual contributor license agreement](docs/individual_contributor_license_agreement.md).
 By submitting code as an entity you agree to the
-[corporate contributor license agreement](doc/corporate_contributor_license_agreement.md).
+[corporate contributor license agreement](docs/corporate_contributor_license_agreement.md).
 
 ## Security vulnerability disclosure
 
